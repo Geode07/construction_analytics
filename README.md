@@ -91,4 +91,4 @@ Potential extensions to this project include:
 3. Unzip the zip file
 4. Run the notebook
 
-![Project Workflow](images/roc_compare.png)
+!roc_compare.png
