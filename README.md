@@ -1,6 +1,8 @@
 # construction_analytics
 A construction project health classification and prognostication study
 
+![Image description](roc_compare.png)
+
 ## Overview
 This project explores machine learning methods for classifying **Primavera construction projects** using predictive modeling techniques. The goal is to evaluate how well different models can predict project characteristics based on historical project data.
 
@@ -90,5 +92,3 @@ Potential extensions to this project include:
 2. Install dependencies
 3. Unzip the zip file
 4. Run the notebook
-
-![Image description](roc_compare.png)
